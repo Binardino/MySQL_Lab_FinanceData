@@ -20,11 +20,12 @@ Your output will look something like below:
 
 ![Challenge 1 output](challenge-1.png)
 
+
 ## Challenge 2 - How many people changed their place of residence?
 
 We assume that people move out from their places if they start paying more for their appartment. Find all those people.
 
-![Challenge 1 output](challenge-1.png)
+![Challenge 2 output](challenge-2.png)
 
 ## Challenge 3 - Best Selling Districts
 
